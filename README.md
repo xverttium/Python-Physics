@@ -1,0 +1,1 @@
+As a physics student, i find experimentation a very good mean to help attach knowledge and to express creativity. What better way, then, to a lazy-ass home-stayer, than python-coding? I made this to share some of my simple and naivy, yet dreamy, physics codes on python. They are not complex, but may perhaps inspire someone.
